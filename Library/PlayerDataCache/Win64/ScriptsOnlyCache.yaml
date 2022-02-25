@@ -28,6 +28,38 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.RawImage
+  serializedClasses:
+    Unity.TextMeshPro:
+    - TMPro.FaceInfo_Legacy
+    - TMPro.FontAssetCreationSettings
+    - TMPro.KerningTable
+    - TMPro.TMP_Character
+    - TMPro.TMP_FontFeatureTable
+    - TMPro.TMP_FontWeightPair
+    - TMPro.TMP_GlyphAdjustmentRecord
+    - TMPro.TMP_GlyphPairAdjustmentRecord
+    - TMPro.TMP_GlyphValueRecord
+    - TMPro.TMP_Sprite
+    - TMPro.TMP_SpriteCharacter
+    - TMPro.TMP_SpriteGlyph
+    - TMPro.TMP_Style
+    - TMPro.VertexGradient
+    UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
+    - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
+    UnityEngine.TextCoreFontEngineModule:
+    - UnityEngine.TextCore.FaceInfo
+    - UnityEngine.TextCore.Glyph
+    - UnityEngine.TextCore.GlyphMetrics
+    - UnityEngine.TextCore.GlyphRect
+    UnityEngine.UI:
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
+    - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.SpriteState
   sceneClasses:
     Assets/Scenes/GameScene.unity:
     - Class: 1
@@ -67,37 +99,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1582}
+      Script: {instanceID: 1576}
     - Class: 114
-      Script: {instanceID: 1732}
+      Script: {instanceID: 1728}
     - Class: 114
-      Script: {instanceID: 2310}
+      Script: {instanceID: 2306}
     - Class: 114
-      Script: {instanceID: 2608}
+      Script: {instanceID: 2604}
     - Class: 114
-      Script: {instanceID: 2824}
+      Script: {instanceID: 2820}
     - Class: 114
-      Script: {instanceID: 3102}
+      Script: {instanceID: 3100}
     - Class: 114
-      Script: {instanceID: 4552}
+      Script: {instanceID: 4544}
     - Class: 114
-      Script: {instanceID: 5110}
+      Script: {instanceID: 5104}
     - Class: 114
-      Script: {instanceID: 5458}
+      Script: {instanceID: 5452}
     - Class: 114
-      Script: {instanceID: 5614}
+      Script: {instanceID: 5612}
     - Class: 114
-      Script: {instanceID: 5680}
+      Script: {instanceID: 5678}
     - Class: 114
-      Script: {instanceID: 5828}
+      Script: {instanceID: 5826}
     - Class: 114
-      Script: {instanceID: 5964}
+      Script: {instanceID: 5962}
     - Class: 114
-      Script: {instanceID: 6152}
+      Script: {instanceID: 6150}
     - Class: 114
-      Script: {instanceID: 6170}
+      Script: {instanceID: 6168}
     - Class: 114
-      Script: {instanceID: 7218}
+      Script: {instanceID: 7220}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -138,31 +170,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1582}
+      Script: {instanceID: 1576}
     - Class: 114
-      Script: {instanceID: 2178}
+      Script: {instanceID: 2174}
     - Class: 114
-      Script: {instanceID: 2310}
+      Script: {instanceID: 2306}
     - Class: 114
-      Script: {instanceID: 2608}
+      Script: {instanceID: 2604}
     - Class: 114
-      Script: {instanceID: 2824}
+      Script: {instanceID: 2820}
     - Class: 114
-      Script: {instanceID: 3102}
+      Script: {instanceID: 3100}
     - Class: 114
-      Script: {instanceID: 4136}
+      Script: {instanceID: 4128}
     - Class: 114
-      Script: {instanceID: 4396}
+      Script: {instanceID: 4388}
     - Class: 114
-      Script: {instanceID: 4552}
+      Script: {instanceID: 4544}
     - Class: 114
-      Script: {instanceID: 5110}
+      Script: {instanceID: 5104}
     - Class: 114
-      Script: {instanceID: 5680}
+      Script: {instanceID: 5678}
     - Class: 114
-      Script: {instanceID: 5828}
+      Script: {instanceID: 5826}
     - Class: 114
-      Script: {instanceID: 6152}
+      Script: {instanceID: 6150}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1000,4 +1032,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenuScene.unity
   - Assets/Scenes/GameScene.unity
-  playerPath: C:/Users/alexa/Desktop/DeadOrRabbitsExe/DeadOrRabbits.exe
+  playerPath: C:/Users/alexa/Desktop/DeadOrRabbits/DeadOrRabbits.exe
