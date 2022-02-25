@@ -8,9 +8,9 @@ by an invisible things. You can hear these invisible things close to you when yo
 
 ## Screenshots
 
-![alt game image](https://github.com/Matrax/DeadOrRabbits/Images/1.png)
-![alt game image](https://github.com/Matrax/DeadOrRabbits/Images/2.png)
-![alt game image](https://github.com/Matrax/DeadOrRabbits/Images/3.png)
+![alt image](https://github.com/Matrax/DeadOrRabbits/Images/1.png)
+![alt image](https://github.com/Matrax/DeadOrRabbits/Images/2.png)
+![alt image](https://github.com/Matrax/DeadOrRabbits/Images/3.png)
 
 !!! This game is only in french !!!
 ## Game Engine
