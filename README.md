@@ -2,7 +2,7 @@
 
 ## Description
 
-Unity 3D game for school project
+Unity 3D game that i developed for a school project
 
 ## Game Engine
 
