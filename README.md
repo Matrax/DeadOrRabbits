@@ -12,6 +12,7 @@ by an invisible things. You can hear these invisible things close to you when yo
 ![alt game image](https://github.com/Matrax/DeadOrRabbits/Images/2.png)
 ![alt game image](https://github.com/Matrax/DeadOrRabbits/Images/3.png)
 
+!!! This game is only in french !!!
 ## Game Engine
 
 Version: 2021.2
